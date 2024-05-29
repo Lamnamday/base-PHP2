@@ -1,1 +1,0 @@
-echo "# base-PHP2"
